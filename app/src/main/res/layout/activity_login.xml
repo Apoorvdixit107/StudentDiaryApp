@@ -67,7 +67,7 @@
             android:backgroundTint="@null"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="username"
+            android:text="@string/username"
             android:textAlignment="center"
             android:textColor="@color/second_color"
             android:textSize="20sp"

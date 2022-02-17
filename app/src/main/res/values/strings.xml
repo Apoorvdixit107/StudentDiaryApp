@@ -2,4 +2,7 @@
     <string name="app_name">Studentdiary</string>
     <string name="login">Login</string>
     <string name="signup">SignUp</string>
+    <string name="addmission_number">Addmission Number</string>
+    <string name="regestration_number">Regestration Number</string>
+    <string name="username">username</string>
 </resources>
